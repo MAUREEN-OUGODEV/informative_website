@@ -1,12 +1,13 @@
-# Authors Name
+# Project's Name:
+## Mama Mboga Informative Website 
+# Collaborators
 ### Maureen Akinyi Ougo
 ### Milcah Ngathi
 ### Ivy Aminga
 ### Idaya Mzee
 ### Lilian Kanyua
 ### Lynet Warukira
-# Project's Name:
-## Mama Mboga Informative Website 
+
 # Project Description:
 ### It's a website that entails more about our Mama Njeri application
 # Project  set-up Instruction:
