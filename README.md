@@ -1,12 +1,12 @@
 # Project's Name:
-## Mama Mboga Informative Website 
-# Collaborators
-### Maureen Akinyi Ougo
-### Milcah Ngathi
-### Ivy Aminga
-### Idaya Mzee
-### Lilian Kanyua
-### Lynet Warukira
+* Mama Mboga Informative Website 
+* Collaborators
+* Maureen Akinyi Ougo
+* Milcah Ngathi
+* Ivy Aminga
+*Idaya Mzee
+* Lilian Kanyua
+* Lynet Warukira
 
 # Project Description:
 ### It's a website that entails more about our Mama Njeri application
@@ -17,7 +17,7 @@
 # Technology Used:
 * HTML.
 * Css.
-* 
+
 # Bugs
 ## No unknown bugs for now.
 # Livelink
