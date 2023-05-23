@@ -2,7 +2,7 @@
 * Mama Mboga Informative Website 
 * Collaborators
 * Maureen Akinyi Ougo
-* Milcah Ngathi
+* Milcah Nkatha
 * Ivy Aminga
 *Idaya Mzee
 * Lilian Kanyua
