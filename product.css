@@ -6,9 +6,7 @@ body {
 #heading{
     font-size: 60px;
     color: black;
-    margin-left: 15'
-    
-
+    margin-left: 15;
 }
 .product {
     display: flex;
@@ -16,14 +14,12 @@ body {
     justify-content: space-between;
     align-items: center;
 }
-  
 .product-img img {
     max-width: 100%;
     height: auto;
 }
 .product-text p{
     color: #2b8a3e;
-
 }
 .product-text {
     max-width: 50%;
