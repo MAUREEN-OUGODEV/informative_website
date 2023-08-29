@@ -1,5 +1,4 @@
-# Project's Name:
-* Mama Mboga Informative Website 
+# Project's Name: Mama Mboga Informative Website 
 * Collaborators
 * Maureen Akinyi Ougo
 * Milcah Nkatha
